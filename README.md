@@ -2,7 +2,6 @@
 <br />
 
 <div align="center">
-  <span>Core:&nbsp;</span>
   <span
     ><img
       src="https://img.shields.io/badge/Shopify-282C34?logo=Shopify&logoColor=95bf47"
@@ -31,6 +30,14 @@
 <br />
 
 <div align="center">
+  <span
+    ><img
+      src="https://img.shields.io/badge/Liquid-282C34?logo=Shopify&logoColor=95bf47"
+      alt="Liquid logo"
+      title="Liquid"
+      height="25"
+  /></span>
+  &nbsp;
   <span
     ><img
       src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26"
