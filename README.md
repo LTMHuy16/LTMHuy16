@@ -40,9 +40,9 @@
 <div align="center">
   <span
     ><img
-      src="https://img.shields.io/badge/Shopify-282C34?logo=Shopify&logoColor=95bf47"
-      alt="Shopify logo"
-      title="Shopify"
+      src="https://img.shields.io/badge/Liquid-282C34?logo=Shopify&logoColor=95bf47"
+      alt="Liquid logo"
+      title="Liquid"
       height="25"
   /></span>
   &nbsp;
