@@ -137,9 +137,11 @@
     <a href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/facebook.png" alt="Facebook" style="max-width: 100%;">
     </a>
+    &nbsp;
     <a href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/linkedin.svg" alt="Linkedin" style="max-width: 100%;">
     </a>
+    &nbsp;
     <a href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/upwork.svg" alt="Upwork" style="max-width: 100%;">
     </a>
