@@ -134,6 +134,14 @@
 
 <div align="center">
   <div align="center" dir="auto">
+   <a style="display: inline-block;" href="mailto:ltminhhuy16@gmail.com" target="_blank" rel="nofollow">
+      <img width="90" height="90" src="/images/email.png" alt="Email" style="max-width: 100%;">
+    </a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
     <a style="display: inline-block;" href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/facebook.png" alt="Facebook" style="max-width: 100%;">
     </a>
