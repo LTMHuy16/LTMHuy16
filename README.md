@@ -142,7 +142,7 @@
     &nbsp;
     &nbsp;
     &nbsp;
-    <a style="display: inline-block;" href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
+    <a style="display: inline-block;" href="https://www.linkedin.com/in/huy-l%C3%AA-3527282b7/" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/linkedin.svg" alt="Linkedin" style="max-width: 100%;">
     </a>
     &nbsp;
@@ -150,7 +150,7 @@
     &nbsp;
     &nbsp;
     &nbsp;
-    <a style="display: inline-block;" href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
+    <a style="display: inline-block;" href="https://www.upwork.com/freelancers/~01b709531db06ff8b3" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/upwork.svg" alt="Upwork" style="max-width: 100%;">
     </a>
   </div>
