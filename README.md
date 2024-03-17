@@ -1,4 +1,4 @@
-<h2 align="center">💻 Technologies and Tools</h2>
+<h2 align="center">💻 Technologies and Tools 💻</h2>
 <br />
 
 <div align="center">
@@ -127,4 +127,7 @@
   /></span>
   &nbsp;
 </div>
+<br />
+
+<h2 align="center">🇻🇳 📧 Contact me 📧🇻🇳</h2>
 <br />
