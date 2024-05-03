@@ -150,7 +150,7 @@
     &nbsp;
     &nbsp;
     &nbsp;
-    <a style="display: inline-block;" href="https://www.linkedin.com/in/huy-l%C3%AA-3527282b7/" target="_blank" rel="nofollow">
+    <a style="display: inline-block;" href="https://www.linkedin.com/in/ltmh16/" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/linkedin.svg" alt="Linkedin" style="max-width: 100%;">
     </a>
   </div>
