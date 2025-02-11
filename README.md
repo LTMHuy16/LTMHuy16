@@ -10,30 +10,6 @@
       height="25"
   /></span>
   &nbsp;
-  <span
-    ><img
-      src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B"
-      alt="WordPress logo"
-      title="WordPress"
-      height="25"
-  /></span>
-  &nbsp;
-  <span
-    ><img
-      src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB"
-      alt="ReactJS logo"
-      title="ReactJS"
-      height="25"
-  /></span>
-  &nbsp;
-  <span
-    ><img
-      src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
-      alt="Node.js logo"
-      title="Node.js"
-      height="25"
-  /></span>
-  &nbsp;
 </div>
 <br />
 
@@ -136,14 +112,6 @@
   <div align="center" dir="auto">
    <a style="display: inline-block;" href="mailto:ltminhhuy16@gmail.com" target="_blank" rel="nofollow">
       <img width="90" height="90" src="/images/email.png" alt="Email" style="max-width: 100%;">
-    </a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <a style="display: inline-block;" target="_blank" href="https://www.facebook.com/profile.php?id=100034130810966" target="_blank" rel="nofollow">
-      <img width="90" height="90" src="/images/facebook.png" alt="Facebook" style="max-width: 100%;">
     </a>
     &nbsp;
     &nbsp;
